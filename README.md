@@ -6,6 +6,8 @@ A large list of leaked passwords that I've collected and consolidated. All store
 
 [https://drive.google.com/open?id=14xB93b5YveOzCY7EuDrcL5ElpN-HCNse]
 
+![alt text](https://github.com/yuqian5/PasswordDictionary/blob/master/README-pic.jpg)
+
 # Databse Included
 
 ### Common Credentials
