@@ -1,4 +1,4 @@
-# Password Dictionary ~5GB
+# Password Dictionary ~5GB  COMPRESSED
 
 A large list of leaked passwords that I've collected and consolidated. All stored in google drive.
 
