@@ -2,11 +2,11 @@
 
 A large list of leaked passwords that I've collected and consolidated. All stored in google drive.
 
-## Download
+### Download
 
 [https://drive.google.com/open?id=14xB93b5YveOzCY7EuDrcL5ElpN-HCNse]
 
-## Databse Included
+# Databse Included
 
 ### Common Credentials
 * 10-million-password-list-top-100.txt.bz2*
@@ -93,4 +93,17 @@ A large list of leaked passwords that I've collected and consolidated. All store
 * probable-v2-top207.txt.bz2*
 * unkown-azul.txt.bz2*
 
-## Use it Responsibly
+### Default Credentials
+* db2-betterdefaultpasslist.txt.bz2*
+* default-passwords.csv.bz2*
+* ftp-betterdefaultpasslist.txt.bz2*
+* mssql-betterdefaultpasslist.txt.bz2*
+* mysql-betterdefaultpasslist.txt.bz2*
+* oracle-betterdefaultpasslist.txt.bz2*
+* postgres-betterdefaultpasslist.txt.bz2*
+* scada-pass.csv.bz2*
+* ssh-betterdefaultpasslist.txt.bz2*
+* telnet-betterdefaultpasslist.txt.bz2*
+* tomcat-betterdefaultpasslist.txt.bz2*
+* vnc-betterdefaultpasslist.txt.bz2*
+* windows-betterdefaultpasslist.txt.bz2*
