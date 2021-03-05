@@ -11,7 +11,7 @@ This project is not long active and the collection will not receive future updat
 
 ![alt text](https://github.com/yuqian5/PasswordDictionary/blob/master/README-pic.jpg)
 
-# Databse Included
+# Database Included
 
 ### Common Credentials
 * 10-million-password-list-top-100.txt.bz2*
